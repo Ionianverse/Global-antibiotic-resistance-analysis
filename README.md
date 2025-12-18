@@ -17,19 +17,14 @@ This project presents an **exploratory data analysis (EDA)** of global antibioti
 
 ##  Repository Structure
 
-global-antibiotic-resistance-analysis/
-│
-├── README.md
-├── LICENSE
-│
-├── data/
-│ └── WHO_GLASS_Antibiotic_Resistance.xlsx
-│
-├── reports/
-│ └── Global_Antibiotic_Resistance_Analysis.pdf
-│
-├── visuals/
-│ └── charts_and_heatmaps.png
+- README.md  
+- LICENSE  
+- data  
+  - WHO_GLASS_Antibiotic_Resistance.xlsx  
+- reports  
+  - Global_Antibiotic_Resistance_Analysis.pdf  
+- visuals  
+  - charts_and_heatmaps.png  
 
 ---
 
