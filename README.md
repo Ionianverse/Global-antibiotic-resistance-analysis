@@ -20,7 +20,8 @@ This project presents an **exploratory data analysis (EDA)** of global antibioti
 - README.md  
 - LICENSE  
 - data  
-  - WHO_GLASS_Antibiotic_Resistance.xlsx  
+  - WHO_GLASS_Antibiotic_Resistance.xlsx
+  - row_data_compiled_WHO_GLASS_2022.xlsx  
 - reports  
   - Global_Antibiotic_Resistance_Analysis.pdf  
 - visuals  
